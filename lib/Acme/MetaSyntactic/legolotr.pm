@@ -48,7 +48,7 @@ Madril
 King_Th√©oden
 Gollum
 Shagrat
-E©owyn
+Eowyn
 Mouth_of_Sauron
 Sauron
 Elrond
@@ -73,7 +73,7 @@ Grima_Wormtongue
 Haldir
 Lothl√≥rien_Elf
 Berserker
-E©omer
+Eomer
 Gondor_Soldier
 Saruman_the_White
 Mordor_Orc
